@@ -1,7 +1,5 @@
 <?php 
-  require_once("inc/conn.php");
-  include('inc/header.php');
-  include('inc/banner.php');
+ 
  ?>
  <div class="content">
 			<p id="title">Featured<strong>Product</strong></p>
@@ -47,8 +45,7 @@
 		<br>
 	</div>
 	
-	<?php include('inc/quangcao.php') ?>
-	<?php  include('inc/pagination.php');?>
+	
 <?php 
-	include('inc/footer.php');
+
  ?>
